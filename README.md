@@ -118,17 +118,8 @@
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul54817&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rahul54817&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10" />
+<!-- <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul54817&layout=compact&theme=tokyonight&hide_border=true" /> -->
+<img width="60%" src="https://github-readme-stats.vercel.app" />
 
 </div>
 
