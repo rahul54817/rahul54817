@@ -134,31 +134,6 @@
 
 ---
 
-# 🔥 Current Focus
-
-```javascript
-const rahul = {
-  currentlyWorkingOn: [
-    "Scalable Backend Systems",
-    "System Design",
-    "Cloud Infrastructure",
-    "Microservices Architecture",
-  ],
-
-  learning: ["Golang", "Distributed Systems", "DevOps"],
-
-  askMeAbout: [
-    "MERN Stack",
-    "Backend Development",
-    "REST APIs",
-    "MongoDB",
-    "Docker",
-  ],
-};
-```
-
----
-
 # 🌐 Connect With Me
 
 <div align="left">
@@ -179,15 +154,6 @@ const rahul = {
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/rahul54817/rahul54817/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # ✨ Developer Philosophy
 
