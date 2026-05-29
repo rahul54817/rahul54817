@@ -1,96 +1,202 @@
-<h1 align="center">Hi 👋, I'm Rahul Yadav</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Backend Enthusiast</h3>
+# <div align="center">🚀 Rahul Yadav</div>
 
-<p align="center">
-Passionate developer with 2+ years of experience building scalable web applications, REST APIs, and modern frontend interfaces using MERN Stack technologies.
-</p>
+<div align="center">
 
----
+### Full Stack Developer • MERN Stack Engineer • Backend Enthusiast
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Focused+Developer;Building+Scalable+Applications;Learning+System+Design+%26+Cloud" />
 
-- 💻 Full Stack Developer specializing in MERN Stack
-- ⚡ Building scalable and performance-focused applications
-- 🔥 Experienced in React.js, Node.js, MongoDB, GraphQL & AWS
-- 🐳 Working with Docker, CI/CD & cloud deployment
-- 🌱 Currently learning Golang & System Design
-- 🎯 Focused on clean architecture and backend optimization
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 👨‍💻 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=rahul54817&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,go" />
-</p>
+<img src="https://img.shields.io/github/followers/rahul54817?style=for-the-badge&color=blue" />
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
+<img src="https://img.shields.io/github/stars/rahul54817?style=for-the-badge&color=yellow" />
 
-### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
-</p>
+</div>
 
 ---
 
-## 📌 Featured Projects
+# 💫 About Me
 
-🚀 Real-Time Chat Application  
-🛒 MERN E-Commerce Platform  
-📊 Admin Dashboard System  
-🔐 Authentication & Role Management APIs  
-☁️ AWS Integrated Backend Services  
+💻 Passionate Full Stack Developer with experience building scalable web applications, REST APIs, and cloud-ready backend systems using modern JavaScript technologies.
 
----
+🚀 I enjoy designing performant backend architectures, optimizing APIs, and creating clean user experiences with modern frontend frameworks.
 
-## 📈 GitHub Stats
+🔥 Currently focused on:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahul54817&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul54817&theme=tokyonight" />
-</p>
+* Backend Optimization
+* System Design
+* Scalable Architecture
+* Cloud & DevOps
+* Golang Learning Journey
 
 ---
 
-## 🌐 Connect With Me
+# ⚡ Current Tech Stack
+
+## 👨‍💻 Frontend
 
 <p align="left">
-<a href="your-linkedin-link" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,html,css,tailwind" />
+</p>
 
-<a href="your-portfolio-link" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+## ⚙️ Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,go" />
+</p>
+
+## 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
+
+## ☁️ DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux,nginx" />
 </p>
 
 ---
 
-## ⚡ Developer Mindset
+# 🚀 Featured Projects
+
+## 💬 Real-Time Chat Application
+
+🔹 Real-time messaging using Socket.IO
+🔹 JWT Authentication & Protected Routes
+🔹 Online Presence Tracking
+🔹 MERN Stack + Redis Integration
+
+---
+
+## 🛒 MERN E-Commerce Platform
+
+🔹 Complete shopping workflow
+🔹 Payment Gateway Integration
+🔹 Admin Dashboard & Analytics
+🔹 Product & Order Management
+
+---
+
+## 📊 Admin Dashboard System
+
+🔹 Dynamic analytics dashboard
+🔹 Role-Based Access Control
+🔹 Responsive UI with charts
+🔹 REST API Integration
+
+---
+
+## 🔐 Authentication & RBAC APIs
+
+🔹 Secure JWT Authentication
+🔹 OAuth & Role Management
+🔹 Scalable Express Architecture
+🔹 Production-ready API Structure
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul54817&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul54817&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul54817&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rahul54817&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+---
+
+# 🔥 Current Focus
 
 ```javascript
 const rahul = {
-  code: ["JavaScript", "TypeScript", "Go"],
-  technologies: {
-    frontend: ["React.js", "Next.js"],
-    backend: ["Node.js", "Express.js", "GraphQL"],
-    database: ["MongoDB", "PostgreSQL"],
-    cloud: ["AWS", "Docker"],
-  },
-  currentFocus: "Building scalable backend systems",
+  currentlyWorkingOn: [
+    "Scalable Backend Systems",
+    "System Design",
+    "Cloud Infrastructure",
+    "Microservices Architecture",
+  ],
+
+  learning: ["Golang", "Distributed Systems", "DevOps"],
+
+  askMeAbout: [
+    "MERN Stack",
+    "Backend Development",
+    "REST APIs",
+    "MongoDB",
+    "Docker",
+  ],
 };
 ```
 
-<h3 align="center">⭐ Always Learning | Always Building 🚀</h3>
+---
+
+# 🌐 Connect With Me
+
+<div align="left">
+
+<a href="YOUR_LINKEDIN" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="YOUR_PORTFOLIO" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/rahul54817/rahul54817/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# ✨ Developer Philosophy
+
+> "Clean code, scalable architecture, and continuous learning drive great software."
+
+---
+
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving 🚀
+
+</div>
