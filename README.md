@@ -123,6 +123,24 @@
 
 </div>
 
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rahul54817&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=rahul54817&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul54817&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
 ---
 
 # 🌐 Connect With Me
